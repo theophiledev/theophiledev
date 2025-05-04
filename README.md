@@ -11,7 +11,8 @@ I'm passionate about solving real-world problems through technology — especial
 - 📊 **Database**: MySQL, SQLite
 - 🤖 **AI/ML/DL**: TensorFlow, Keras, Scikit-learn, OpenCV
 - 🎤 **Voice Tech**: SpeechRecognition, gTTS, pyttsx3
-- 🚀 **Tools**: VS Code, Git, GitHub, XAMPP, Render
+- 🚀 **Tools**: VS Code, Railway, GitHub, XAMPP, Render,Ngrok,Xd(Adobe),WordPress,Arduino Editor, etc...
+  
 
 
 ## 🚀 Featured Project: SmartAgriHub360tR  
@@ -41,7 +42,7 @@ A complete **AI-powered smart farming & market system** built to help farmers in
 - 📱 WhatsApp / Call: [+250 782 858 743](tel:+250782858743)  
 - 🌐 [fastfood.byethost17.com/restaurant_app](http://fastfood.byethost17.com/restaurant_app) *(Student Meal System)*  
 - 📧 Email: *btbenimana@gmail.com*  
-- 💼 LinkedIn: *(Optional - add your LinkedIn link)*
+- 💼 LinkedIn: **
 - X tweeter:*https://x.com/Theophile_be*
 
 
