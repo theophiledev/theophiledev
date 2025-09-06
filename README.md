@@ -1,55 +1,76 @@
 # 👋 Hello! I'm Theophile (@theophiledev)
 
-🎓 Final Year IT Student | 🧠 AI & ML Enthusiast | 🇷🇼 From Rwanda
+🎓 **Final Year IT Student** | 🧠 **AI & ML Enthusiast** | 🇷🇼 **Rwanda**
 
-I'm passionate about solving real-world problems through technology — especially in **AI, Machine Learning, and Smart Agriculture**. My mission is to build innovative, impactful, and scalable digital solutions that benefit both **Rwanda** and the **world**.
+I'm passionate about solving real-world problems with technology—especially in **AI, Machine Learning, and Smart Agriculture**.  
+My mission is to build innovative, impactful, and scalable digital solutions that benefit both **Rwanda** and the world.
 
+---
 
-## 🔧 Tech Stack
-- 💻 **Languages**: Python, PHP, JavaScript
-- 🌐 **Web Dev**: HTML, CSS, Bootstrap, Laravel, Flask
-- 📊 **Database**: MySQL, SQLite
-- 🤖 **AI/ML/DL**: TensorFlow, Keras, Scikit-learn, OpenCV
-- 🎤 **Voice Tech**: SpeechRecognition, gTTS, pyttsx3
-- 🚀 **Tools**: VS Code, Railway, GitHub, XAMPP, Render,Ngrok,Xd(Adobe),WordPress,Arduino Editor, etc...
-  
+## 🚀 What I Do
 
+- 🌱 Build & prototype smart, AI-driven apps for agriculture, education, and community impact
+- 💡 Transform local challenges into practical digital solutions
+- 🌍 Advocate for using technology to drive positive change in Africa
 
-## 🚀 Featured Project: SmartAgriHub360tR  
-A complete **AI-powered smart farming & market system** built to help farmers in Rwanda detect crop/livestock diseases, predict market prices, and access services in **Kinyarwanda with voice support**.
+---
 
-🧠 Includes AI for health diagnosis  
-📈 Predicts produce prices  
-🗣️ Supports voice commands in local language  
-🌍 Designed for impact beyond Rwanda  
+## 🛠️ Tech Stack
 
-> 💡 *"Built by a student. Made for a nation."*
+- **Languages:** Python, PHP, JavaScript
+- **Web:** HTML, CSS, Bootstrap, Laravel, Flask
+- **Databases:** MySQL, SQLite
+- **AI/ML/DL:** TensorFlow, Keras, Scikit-learn, OpenCV
+- **Voice Tech:** SpeechRecognition, gTTS, pyttsx3
+- **Tools:** VS Code, GitHub, Railway, Render, XAMPP, Ngrok, Adobe XD, WordPress, Arduino Editor, more...
 
+---
 
-## 🌱 Currently Learning
-- Real-time voice-based AI apps  
-- Edge AI with Raspberry Pi  
-- Mobile app development with Flutter  
+## 🌟 Featured Project
 
+### SmartAgriHub360tR
+An **AI-powered smart farming & market platform** for Rwanda:  
+- 🧠 Crop & livestock disease diagnosis with AI  
+- 📈 Produce price prediction  
+- 🗣️ Voice command support in Kinyarwanda  
+- 🌍 Built for impact, designed for scale
 
-## 💡 I'm Looking to Collaborate On:
+> *"Built by a student. Made for a nation."*
+
+---
+
+## 📚 Currently Exploring
+
+- Real-time voice-based AI apps
+- Edge AI (Raspberry Pi)
+- Mobile app development (Flutter)
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm open to:  
 - AI-for-good projects  
-- AgriTech or EdTech platforms  
-- Open-source systems for Africa  
+- AgriTech / EdTech platforms  
+- Open-source systems for Africa
 
+---
 
-## 📫 Reach Me
-- 📱 WhatsApp / Call: [+250 782 858 743](tel:+250782858743)  
-- 🌐 [fastfood.byethost17.com/restaurant_app](http://fastfood.byethost17.com/restaurant_app) *(Student Meal System)*  
-- 📧 Email: *btbenimana@gmail.com*  
-- 💼 LinkedIn: **
-- X tweeter:*https://x.com/Theophile_be*
+## 📫 Contact
 
+- 📱 **WhatsApp / Call:** [+250 782 858 743](tel:+250782858743)
+- 🌐 **Student Meal System:** [fastfood.byethost17.com/restaurant_app](http://fastfood.byethost17.com/restaurant_app)
+- 📧 **Email:** [btbenimana@gmail.com](mailto:btbenimana@gmail.com)
+- 💼 **LinkedIn:** *(add your LinkedIn URL)*
+- 🐦 **X (Twitter):** [@Theophile_be](https://x.com/Theophile_be)
+
+---
 
 ## ⚡ Fun Fact
-I turn real-world problems into smart digital solutions before my morning tea 😄
+
+I turn real-world problems into smart digital solutions before my morning tea. 😄
 
 <!---
 theophiledev/theophiledev is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Click Preview to see your changes.
 --->
